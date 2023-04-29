@@ -1,5 +1,6 @@
 # CAS_NT501A_GetWeight
-Used for getting weight from CAS NT-501A scales\
+Used for getting weight from CAS NT-501A scales. Prints result to stdout\
+Usage: java -jar CAS_NT501A_GetWeight.jar [COM port name](required) [debug](optional)\
 Example of usage: java -jar CAS_NT501A_GetWeight.jar COM3
 
 Requires:
