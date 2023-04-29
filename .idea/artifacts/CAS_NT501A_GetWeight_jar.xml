@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CAS_NT501A_GetWeight:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CAS_NT501A_GetWeight_jar</output-path>
+    <root id="archive" name="CAS_NT501A_GetWeight.jar">
+      <element id="module-output" name="CAS_NT501A_GetWeight" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Java_Libraries/jSerialComm-2.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.9.3/jSerialComm-2.9.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
